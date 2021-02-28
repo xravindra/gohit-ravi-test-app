@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gohit-ravi-test-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/gohit-ravi-test-app/static/js/main.26f13bed.chunk.js",
+    "main.js.map": "/gohit-ravi-test-app/static/js/main.26f13bed.chunk.js.map",
+    "runtime-main.js": "/gohit-ravi-test-app/static/js/runtime-main.f22bddc9.js",
+    "runtime-main.js.map": "/gohit-ravi-test-app/static/js/runtime-main.f22bddc9.js.map",
+    "static/js/2.e6ef9630.chunk.js": "/gohit-ravi-test-app/static/js/2.e6ef9630.chunk.js",
+    "static/js/2.e6ef9630.chunk.js.map": "/gohit-ravi-test-app/static/js/2.e6ef9630.chunk.js.map",
+    "static/js/3.2deb4fd2.chunk.js": "/gohit-ravi-test-app/static/js/3.2deb4fd2.chunk.js",
+    "static/js/3.2deb4fd2.chunk.js.map": "/gohit-ravi-test-app/static/js/3.2deb4fd2.chunk.js.map",
+    "index.html": "/gohit-ravi-test-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/gohit-ravi-test-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e6ef9630.chunk.js.LICENSE.txt": "/gohit-ravi-test-app/static/js/2.e6ef9630.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gohit-ravi-test-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f22bddc9.js",
+    "static/js/2.e6ef9630.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.26f13bed.chunk.js"
+  ]
+}
